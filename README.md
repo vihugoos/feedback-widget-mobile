@@ -82,29 +82,15 @@ A widget where you can send feedback to the website administrator about bugs, id
 
 To get started, you need to have <strong>Node.js 16+</strong> installed on your machine, for more information, visit <a href="https://nodejs.org/en/download/"> Node.js Downloads</a>. 
 
-<strong>WARNING</strong>: Add PostgreSQL executable path to user <strong>environment variables</strong>, to be able to use the `psql` command in the terminal, or create a database called `liber` via graphical user interface using the pgAdmin, it's up to you what you think is best. <strong>Note:</strong> This installation guide is based on Windows systems. 
-
-
 ### Prerequisites
 
-First of all, we need to ensure that the database server is running, to do so, run the following commands in case you haven't created the database manually via pgAdmin, as mentioned above, if you have already created the database `liber`, just run the first command below. 
+First of all, we need to ensure that the server is running, to do so, visit my <a href="https://github.com/vihugoos/chatbox-server">@chatbox-server</a> repository and follow the installation guide. 
 
-1. Open cmd terminal as <strong>administrator</strong> (<i>looking at psql version, in this case 14</i>)
+* Inside the chatbot-server root directory, run the server 
    ```cmd
-   net start postgresql-x64-14
+   npm run dev
    ```
-2. Connect with psql 
-   ```cmd
-   psql -U postgres
-   ```
-3. Create a database 
-   ```cmd
-   CREATE DATABASE liber;
-   ```
-4. Quit psql 
-   ```cmd
-   \q
-   ```
+
 
 ### Installation
 
