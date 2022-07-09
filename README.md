@@ -54,15 +54,15 @@ A widget where you can send feedback to the website administrator about bugs, id
 <div style="display: inline_block">
     <!-- Icon Node.js --> 
     <a href="https://nodejs.org/en/docs/"> 
-      <img align="center" alt="Icon-Axios" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
+      <img align="center" alt="Icon-Axios" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
     </a> 
     <!-- Icon Expo --> 
     <a href="https://docs.expo.dev/"> 
-      <img align="center" alt="Icon-Axios" height="40" src="https://user-images.githubusercontent.com/44311634/178088819-374d1241-cef7-4f68-b400-4a33ccec45e2.png"> 
+      <img align="center" alt="Icon-Axios" height="37" src="https://user-images.githubusercontent.com/44311634/178088819-374d1241-cef7-4f68-b400-4a33ccec45e2.png"> 
     </a> 
     <!-- Icon React -->
     <a href="https://reactjs.org/docs/getting-started.html"> 
-      <img align="center" alt="Icon-React" height="40" src="https://user-images.githubusercontent.com/44311634/178088844-02a9c9ba-28b9-4ef6-87f0-d12d52ceaf0b.png"> 
+      <img align="center" alt="Icon-React" height="37" src="https://user-images.githubusercontent.com/44311634/178088844-02a9c9ba-28b9-4ef6-87f0-d12d52ceaf0b.png"> 
     </a>
     <!-- Icon Axios -->
     <a href="https://axios-http.com/docs/intro"> 
