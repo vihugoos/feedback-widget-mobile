@@ -85,7 +85,7 @@ To get started, you need to have <strong>Node.js 16+</strong> installed on your 
 
 ### Prerequisites 
 
-First of all, we need to ensure that the <strong>server is running</strong>, to do so, visit my <a href="https://github.com/vihugoos/chatbox-server">@chatbox-server</a> repository and follow the install and run guide. 
+First of all, we need to ensure that the <strong>server is running</strong>, to do so, visit my <a href="https://github.com/vihugoos/chatbox-server">@chatbox-server</a> repository and follow the install and run guide. Note: This installation guide is based on Windows systems. 
 
 
 ### Installation 
@@ -119,7 +119,7 @@ First of all, we need to ensure that the <strong>server is running</strong>, to 
 <!---- USAGE EXAMPLES ----> 
 ## Usage
 
-With the installation complete, we can start the project
+With the installation complete, we can start the project.
 
 1. Starting the project 
    ```bash
