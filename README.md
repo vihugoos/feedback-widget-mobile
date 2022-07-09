@@ -80,7 +80,7 @@ A widget where you can send feedback to the website administrator about bugs, id
 <!---- GETTING STARTED ----> 
 ## Getting Started
 
-To get started, you need to have <strong>Node.js 16+</strong> installed on your machine, for more information, visit <a href="https://nodejs.org/en/download/"> Node.js Downloads</a>. 
+To get started, you need to have <strong>Node.js 16+</strong> installed on your machine, for more information visit <a href="https://nodejs.org/en/download/"> Node.js Downloads</a>. You will also need to have <strong>Expo</strong> installed on your mobile phone, for more information visit <a href="https://play.google.com/store/apps/details?id=host.exp.exponent">Expo to Google Play</a> or <a href="https://apps.apple.com/app/expo-go/id982107779">Expo to App Store</a>. 
 
 
 ### Prerequisites 
@@ -116,25 +116,20 @@ First of all, we need to ensure that the <strong>server is running</strong>, to 
    ```
  
 
-<!---- USAGE EXAMPLES ---->
+<!---- USAGE EXAMPLES ----> 
 ## Usage
 
-With the installation complete, we can start the project. 
+With the installation complete, we can start the project
 
-* Starting the project 
-   ```cmd
-   python manage.py runserver
+1. Starting the project 
+   ```bash
+   expo start --clear 
    ```
 
-<br/>
-To enjoy the entire application, create a super user with the following command and follow the terminal instructions, remembering that in the 'plan' option it will be necessary to type <strong>'Basic'</strong>, <strong>'Premium'</strong> or <strong>'Black'</strong> to finish creating the user. You will be able <strong>to track</strong> and <strong>change all requests</strong> in the admin panel accessing <strong>localhost:8000/accounts/admin/</strong> 
-<br/> <br/>
 
-* Command to create super user 
-   ```cmd
-   python manage.py createsuperuser
-   ```
-<br/>
+2. Open the <strong>Expo</strong> app on your mobile and scan the <strong>QR Code</strong> displayed on the terminal and wait for the project to build.
+
+<br/> 
 
 
 <!---- CONTRIBUTING ---->
