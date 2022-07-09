@@ -5,7 +5,7 @@
 <div align="center">
 
   <h2 align="center"> 
-    Feedback Widget - Mobile Version 
+    Feedback Widget - Mobile App Version 
   </h2>
   
   <p align="center">
