@@ -46,23 +46,27 @@
 ## About The Project
 
 <img src="https://user-images.githubusercontent.com/44311634/177375857-21021f9f-d608-4c88-8d79-7188796f4fd7.jpg" align="center" alt="Project Home Page">
-A platform for customers to request different types of services and to be able to follow the progress of their requests via their profile. Request management is done in the admin panel.
+A widget where you can send feedback to the website administrator about bugs, ideas, etc.
 
 
 ### Built With 
 
 <div style="display: inline_block">
-    <!-- Icon Django -->
-    <a href="https://docs.djangoproject.com/en/3.2/"> 
-      <img align="center" alt="Icon-Django" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"> 
-    </a> &nbsp; 
-    <!-- Icon Bootstrap -->
-    <a href="https://getbootstrap.com/docs/4.6/getting-started/introduction/"> 
-      <img align="center" alt="Icon-Django" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"> 
-    </a> &nbsp;  
-    <!-- Icon PostgreSQL -->
-    <a href="https://www.postgresql.org/"> 
-      <img align="center" alt="Icon-Django" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"> 
+    <!-- Icon Node.js --> 
+    <a href="https://nodejs.org/en/docs/"> 
+      <img align="center" alt="Icon-Axios" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
+    </a> 
+    <!-- Icon Expo --> 
+    <a href="https://docs.expo.dev/"> 
+      <img align="center" alt="Icon-Axios" height="40" src="https://user-images.githubusercontent.com/44311634/178088819-374d1241-cef7-4f68-b400-4a33ccec45e2.png"> 
+    </a> 
+    <!-- Icon React -->
+    <a href="https://reactjs.org/docs/getting-started.html"> 
+      <img align="center" alt="Icon-React" height="40" src="https://user-images.githubusercontent.com/44311634/178088844-02a9c9ba-28b9-4ef6-87f0-d12d52ceaf0b.png"> 
+    </a>
+    <!-- Icon Axios -->
+    <a href="https://axios-http.com/docs/intro"> 
+      <img align="center" alt="Icon-Axios" height="55" src="https://user-images.githubusercontent.com/44311634/178089407-0176462e-7e60-4f4f-9ad8-5429a22b2c5c.png"> 
     </a>
 </div>
 
@@ -73,7 +77,7 @@ A platform for customers to request different types of services and to be able t
 <!---- GETTING STARTED ----> 
 ## Getting Started
 
-To get started, you need to have <strong>Python 3.8+</strong> installed on your machine, for more information, visit <a href="https://www.python.org/downloads/"> Python Downloads</a> or <a href="https://www.anaconda.com/products/distribution">Anaconda Distribuition</a>. You will also need to have <strong>PostgreSQL</strong> installed, for more information visit <a href="https://www.enterprisedb.com/downloads/postgres-postgresql-downloads"> PostgreSQL Downloads</a>. 
+To get started, you need to have <strong>Node.js 16+</strong> installed on your machine, for more information, visit <a href="https://nodejs.org/en/download/"> Node.js Downloads</a>. 
 
 <strong>WARNING</strong>: Add PostgreSQL executable path to user <strong>environment variables</strong>, to be able to use the `psql` command in the terminal, or create a database called `liber` via graphical user interface using the pgAdmin, it's up to you what you think is best. <strong>Note:</strong> This installation guide is based on Windows systems. 
 
