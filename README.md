@@ -44,7 +44,7 @@
 <!---- THE PROJECT ---->
 ## About The Project
 
-<img src="https://user-images.githubusercontent.com/44311634/177375857-21021f9f-d608-4c88-8d79-7188796f4fd7.jpg" align="center" alt="Project Home Page">
+<img src="" align="center" alt="Project Home Page">
 A widget where you can send feedback to the website administrator about bugs, ideas, etc.
 
 
@@ -82,54 +82,37 @@ A widget where you can send feedback to the website administrator about bugs, id
 
 To get started, you need to have <strong>Node.js 16+</strong> installed on your machine, for more information, visit <a href="https://nodejs.org/en/download/"> Node.js Downloads</a>. 
 
-### Prerequisites
+
+### Prerequisites 
 
 First of all, we need to ensure that the <strong>server is running</strong>, to do so, visit my <a href="https://github.com/vihugoos/chatbox-server">@chatbox-server</a> repository and follow the install and run guide. 
 
 
-### Installation
+### Installation 
 
 1. Clone the repo 
    ```bash
-   git clone https://github.com/vihugoos/liber.git
+   git clone https://github.com/vihugoos/feedback-widget-mobile-app.git
    ```
-2. Change the settings in `.\liber\settings.py` (don't forget to change the password)
-   ```python
-    DEBUG = True
-   
-    DATABASES = {
-      'default': {
-          'ENGINE': 'django.db.backends.postgresql',
-          'NAME': 'liber',
-          'USER': 'postgres',
-          'PASSWORD': 'yourPasswordRoot',
-          'HOST': 'localhost',
-          'PORT': '5432'
-      }
-    }
-   ```
-3. Inside the project root directory, create a python virtual environment 
+2. Open cmd terminal and install expo cli globally 
    ```cmd
-   python -m venv virtual-env
+   npm install -g expo-cli
    ```
-4. Enable virtual environment in cmd terminal
+3. Inside the project root directory install all project dependencies 
    ```cmd
-   cd virtual-env/Scripts/
+   npm install
    ```
+4. Capture your machine's `IPv4 Address`
    ```cmd
-   Activate
+   ipconfig
    ```
-6. Go back to the root directory with virtual environment enable 
-   ```cmd
-   cd ..\..\
-   ```
-7. Install all dependencies 
-   ```cmd
-   pip install -r requirements.txt
-   ```
-8. Run the migrations
-   ```cmd
-   python manage.py migrate
+   <img align="center" alt="print-ipconfig" src="https://user-images.githubusercontent.com/44311634/178123996-7183d436-2bd2-4f5e-b8ac-2ecd8f3d0737.jpg">
+   <br/> <br/> 
+5. Change the baseURL in `.\libs\api.ts`, with your IP, keeping the door `:3333` 
+   ```ts
+    export const api = axios.create({
+      baseURL: 'http://192.168.1.9:3333'
+    })
    ```
  
 
