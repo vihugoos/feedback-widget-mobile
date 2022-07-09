@@ -84,12 +84,7 @@ To get started, you need to have <strong>Node.js 16+</strong> installed on your 
 
 ### Prerequisites
 
-First of all, we need to ensure that the server is running, to do so, visit my <a href="https://github.com/vihugoos/chatbox-server">@chatbox-server</a> repository and follow the installation guide. 
-
-* Inside the chatbot-server root directory, run the server 
-   ```cmd
-   npm run dev
-   ```
+First of all, we need to ensure that the <strong>server is running</strong>, to do so, visit my <a href="https://github.com/vihugoos/chatbox-server">@chatbox-server</a> repository and follow the install and run guide. 
 
 
 ### Installation
