@@ -44,9 +44,11 @@
 <!---- THE PROJECT ---->
 ## About The Project
 
-<img src="" align="center" alt="Project Home Page">
-A widget where you can send feedback to the website administrator about bugs, ideas, etc.
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/44311634/178160642-be38b691-954f-4e5c-a0fa-16acc0c4700f.gif" align="center" height="500" alt="Project Home Page">
+  <br/> <br/> 
+  <p> A widget where you can send feedback to the website administrator about bugs, ideas, etc. </p>
+</div>
 
 ### Built With 
 
