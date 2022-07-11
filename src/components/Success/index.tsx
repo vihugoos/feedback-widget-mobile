@@ -27,7 +27,7 @@ export function Success({ onSendAnotherFeedback }: Props) {
                 onPress={onSendAnotherFeedback}
             >
                 <Text style={styles.buttonTitle}>
-                    I want to send other
+                    I want to send another 
                 </Text>
             </TouchableOpacity>
 
