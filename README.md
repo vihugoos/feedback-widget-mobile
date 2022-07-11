@@ -110,7 +110,7 @@ First of all, we need to ensure that the <strong>server is running</strong>, to 
    ```
    <img align="center" alt="print-ipconfig" src="https://user-images.githubusercontent.com/44311634/178123996-7183d436-2bd2-4f5e-b8ac-2ecd8f3d0737.jpg">
    <br/> <br/> 
-5. Change the baseURL in `.\libs\api.ts`, with your IP, keeping the door `:3333` 
+5. Change the baseURL in `.\src\libs\api.ts`, with your IP, keeping the door `:3333` 
    ```ts
     export const api = axios.create({
       baseURL: 'http://192.168.1.9:3333'
@@ -131,6 +131,14 @@ With the installation complete, we can start the project.
 
 2. Open the <strong>Expo</strong> app on your mobile and scan the <strong>QR Code</strong> displayed on the terminal and wait for the project to build.
 
+<br/>
+
+You can also create an account at Expo and in the terminal log in with your account, the running projects will automatically be displayed in the Expo app.
+
+* Expo login CLI
+   ```bash
+   expo signin -u yourUserName -p yourPassword 
+   ```
 <br/> 
 
 
