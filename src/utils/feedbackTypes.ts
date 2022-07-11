@@ -9,8 +9,8 @@ export const feedbackTypes = {
     image: require('../assets/idea.png'),
   },
   
-  'OTHER': {
-    title: 'Other',
+  'ANOTHER': {
+    title: 'Another',
     image: require('../assets/thought.png'),
   },
 }
