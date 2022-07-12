@@ -87,7 +87,7 @@ To get started, you need to have <strong>Node.js 16+</strong> installed on your 
 
 ### Prerequisites 
 
-First of all, we need to ensure that the <strong>server is running</strong>, to do so, visit my <a href="https://github.com/vihugoos/chatbox-server">@chatbox-server</a> repository and follow the install and run guide. Note: This installation guide is based on Windows systems. 
+First of all, we need to ensure that the <strong>server is running</strong>, to do so, visit my <a href="https://github.com/vihugoos/feedback-widget-server">@feedback-widget-server</a> repository and follow the install and run guide. 
 
 
 ### Installation 
