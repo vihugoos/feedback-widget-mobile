@@ -35,7 +35,6 @@
     </li>
     <li><a href="#usage"> Usage </a></li>
     <li><a href="#contributing"> Contributing </a></li>
-    <li><a href="#license"> License </a></li>
     <li><a href="#contact"> Contact </a></li>
   </ol>
 </details>
@@ -45,10 +44,11 @@
 ## About The Project
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/44311634/178160642-be38b691-954f-4e5c-a0fa-16acc0c4700f.gif" align="center" height="500" alt="Project Home Page">
+  <img src="https://user-images.githubusercontent.com/44311634/178615280-dd27ae33-9798-419c-8df7-6a863d199d3e.gif" align="center" height="500" alt="Project Home Page">
   <br/> <br/> 
   <p> A widget where you can send feedback to the website administrator about bugs, ideas, etc. </p>
 </div>
+
 
 ### Built With 
 
