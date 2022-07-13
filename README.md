@@ -10,8 +10,8 @@
   <p align="center">
     A feedback widget to capture feedback from your app's users, developed with Expo and React Native. <br/>
     Explore <a href="https://docs.expo.dev/">Expo</a> or <a href="https://reactnative.dev/docs/getting-started">React Native</a> docs &#187; <br/> <br/>
-    <a href="https://github.com/vihugoos/feedback-widget-mobile/issues"> Report Bug </a> &nbsp;•&nbsp;
-    <a href="https://github.com/vihugoos/feedback-widget-mobile/issues"> Request Feature </a>
+    <a href="https://github.com/vihugoos/feedback-widget-mobile-app/issues"> Report Bug </a> &nbsp;•&nbsp;
+    <a href="https://github.com/vihugoos/feedback-widget-mobile-app/issues"> Request Feature </a>
   </p>
 </div>
 
