@@ -47,7 +47,7 @@
   <img src="https://user-images.githubusercontent.com/44311634/178615280-dd27ae33-9798-419c-8df7-6a863d199d3e.gif" align="center" height="500" alt="Project Home Page">
   <br/> <br/> 
 </div>
-A widget where customers can send feedback to the app admin about bugs, ideas, etc. The feedback is saved in the database and an email is sent to the administrator for notification. 
+A widget where customers can send feedback to the app admin about bugs, ideas, etc. The feedback is saved in the database and an email with complete information about the feedback is sent to the administrator.
 
 
 ### Built With 
