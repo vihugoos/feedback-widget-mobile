@@ -54,23 +54,23 @@ A widget where customers can send feedback to the app admin about bugs, ideas, e
 
 <div style="display: inline_block">
     <!-- Icon Node.js --> 
-    <a href="https://nodejs.org/en/docs/"> 
+    <a href="https://nodejs.org/en/"> 
       <img align="center" alt="Icon-Node.js" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
     </a> &nbsp;
     <!-- Icon TypeScript --> 
-    <a href="https://www.typescriptlang.org/docs/"> 
+    <a href="https://www.typescriptlang.org/"> 
       <img align="center" alt="Icon-TypeScript" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
     </a> &nbsp;
     <!-- Icon Expo --> 
-    <a href="https://docs.expo.dev/"> 
+    <a href="https://expo.dev/"> 
       <img align="center" alt="Icon-Expo" height="35" src="https://user-images.githubusercontent.com/44311634/178088819-374d1241-cef7-4f68-b400-4a33ccec45e2.png"> 
     </a> &nbsp;
     <!-- Icon React -->
-    <a href="https://reactjs.org/docs/getting-started.html"> 
+    <a href="https://reactjs.org/"> 
       <img align="center" alt="Icon-React" height="35" src="https://user-images.githubusercontent.com/44311634/178088844-02a9c9ba-28b9-4ef6-87f0-d12d52ceaf0b.png"> 
     </a> &nbsp;
     <!-- Icon Axios -->
-    <a href="https://axios-http.com/docs/intro"> 
+    <a href="https://axios-http.com/"> 
       <img align="center" alt="Icon-Axios" height="55" src="https://user-images.githubusercontent.com/44311634/178089407-0176462e-7e60-4f4f-9ad8-5429a22b2c5c.png"> 
     </a>
 </div>
